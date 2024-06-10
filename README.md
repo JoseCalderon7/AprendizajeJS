@@ -1,2 +1,2 @@
 # AprendizajeJS
-Repositorio para poder aprender y practicar JS.
+Repositorio para aprender y practicar JS. <br>- Ejercicios prácticos
