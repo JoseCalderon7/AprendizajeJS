@@ -22,3 +22,26 @@ De Referecia:
     * Clases
 
 --------------------------------------------------------------------------
+
+Expresiones Declaraciones Estatements:
+
+Declaration: Cuando vas a crear algo que vamos a utilizar en el futuro: 
+let || const || funcion* || async funcion* || class || export / import
+
+Statements: if || for || else || switch
+
+Expresions: Cada vez que hace algo y podemos obtener un valor, es una expresión. (Si no hace nada, 
+es una declaración || Si permite generar logica sería un Statements)
+
+4 + 6 = 10 || x = 4 || miFuncion()
+
+--------------------------------------------------------------------------
+
+Operadores:
+- Aritmeticos
+- Asignación
+- Comparación
+- Lógicos
+
+--------------------------------------------------------------------------
+
