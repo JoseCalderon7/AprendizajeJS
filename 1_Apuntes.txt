@@ -1,0 +1,24 @@
+Refactorizar: Cambiar la estructura interna SIN alterar el comportamiento externo.
+
+Variables: Concepto de "Caja" la cual contendrá información y que se puede referenciar en un futuro.
+
+Undefine: Se utiliza cuando se asigna una variable, pero esta no representa un valor.
+
+--------------------------------------------------------------------------
+
+~ TIPOS DE DATOS ~
+
+Primitivos:
+    * Number
+    * String
+    * Boolean
+    * Undefine
+    * Null
+
+De Referecia:
+    * Array
+    * Object
+    * Functions
+    * Clases
+
+--------------------------------------------------------------------------
